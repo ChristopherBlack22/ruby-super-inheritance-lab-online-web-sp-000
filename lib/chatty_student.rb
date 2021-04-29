@@ -5,7 +5,14 @@ class ChattyStudent < Student
   end 
   
   def raise_hand
-    super
-    
+    super raise_hand 
+    super raise_hand 
+    super raise_hand 
+    super raise_hand 
+    super raise_hand 
+    super raise_hand 
+    super raise_hand 
+    super raise_hand 
+    super raise_hand 
   end
 end
